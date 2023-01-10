@@ -10,3 +10,5 @@ This repo is a test to see how we can handle git sync with DSS.
 5. Modify the README.md  (Can't sync with git, as the library folder does not contain ``.git`` directory.)
 6. Sync with DSS.
 7. From DSS: Modify the README and Push to github.
+8. Create a branch from GitHub.
+9. Modify the README (from github), and commit
