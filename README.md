@@ -16,3 +16,8 @@ This repo is a test to see how we can handle git sync with DSS.
 11. There is no synchronization between PyCharm and DSS. So every modification done in POycharm has been lost.
 12. Third modification from Pycharm, then sync with DSS. After sync reload the file from DSS before doing modification.
 13. If we reload the file before doing any modification, the file is updated, and then we can do modification.
+8. Create a branch from GitHub.
+9. Modify the README (from github), and commit
+10. Some modifcations to the github branch (from github)
+11. Try to merge branch from github
+12. Some conflicts (expected) to resolve.
