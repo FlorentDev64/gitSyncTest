@@ -29,3 +29,4 @@ This repo is a test to see how we can handle git sync with DSS.
 2. From DSS, reload page. The ne directory appears, but it is not linked to Github.
 3. Update the reference, with the appropraite informations.
 4. Modify the README, and push from DSS
+5. The referecne from the git repo has been lost... SO in the same situation than before.
