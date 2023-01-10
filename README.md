@@ -21,3 +21,5 @@ This repo is a test to see how we can handle git sync with DSS.
 10. Some modifcations to the github branch (from github)
 11. Try to merge branch from github
 12. Some conflicts (expected) to resolve.
+14. Modification from DSS while the branch has been merged
+15. While pushing the conflict has been detected, and then resolve the conflict inside DSS, and mark as resolved, and push.
