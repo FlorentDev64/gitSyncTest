@@ -12,3 +12,5 @@ This repo is a test to see how we can handle git sync with DSS.
 7. From DSS: Modify the README and Push to github.
 8. Create a branch from GitHub.
 9. Modify the README (from github), and commit
+10. Some modifcations to the github branch (from github)
+11. Try to merge branch from github
