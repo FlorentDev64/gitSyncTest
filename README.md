@@ -12,3 +12,4 @@ This repo is a test to see how we can handle git sync with DSS.
 7. From DSS: Modify the README and Push to github.
 8. Modify the README.md (in DSS, while branch has been create from github, and the file hase been modified from Pycharm)
 9. Commit and push from DSS
+10. New modification from DSS, and then try to push
