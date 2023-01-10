@@ -23,3 +23,9 @@ This repo is a test to see how we can handle git sync with DSS.
 12. Some conflicts (expected) to resolve.
 14. Modification from DSS while the branch has been merged
 15. While pushing the conflict has been detected, and then resolve the conflict inside DSS, and mark as resolved, and push.
+
+# Another Test
+1. From Pycharm, clone the repo.
+2. From DSS, reload page. The ne directory appears, but it is not linked to Github.
+3. Update the reference, with the appropraite informations.
+4. Modify the README, and push from DSS
