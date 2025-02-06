@@ -1,4 +1,4 @@
-# Test Repo
+# Test Repo from git
 This repo is a test to see how we can handle git sync with DSS.
 
 # Steps done so far
